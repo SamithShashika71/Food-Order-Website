@@ -7,7 +7,7 @@ This project is designed as a simple UI for browsing food items and placing an o
 
 ## 📂 Project Structure
 
-   Food-Order-Website/
+Food-Order-Website/
    ├── index.html # Main homepage
    ├── menu.html # Menu page
    ├── order.html # Order form page
