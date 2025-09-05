@@ -16,6 +16,8 @@ Food-Order-Website/
 ├── images/ # All food images, icons, backgrounds
 └── README.md # Project documentation
 
+Copy code
+
 ---
 
 ## 🚀 Features
